@@ -16,9 +16,7 @@ Arama Özelliği
 
 Kategori Sistemi
 
-
 2. Kullanıcı Arayüzü Tasarımı (UI)
-
 Ana Sayfa Tasarımı
 
 Yazı Sayfası Tasarımı
@@ -33,8 +31,6 @@ users Tablosu (Kullanıcı Bilgileri)
 posts Tablosu (Blog Yazıları)
 
 comments Tablosu (Yorumlar)
-
-
 
 
 ## Kullanılan Teknolojiler
